@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="http://epg.one/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/ksk.png" ,ТехПоддержка:22-08-60 
 http://109.248.236.21:4322/udp/238.1.1.80:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="QAZAQSTAN" tvg-logo="http://uplink.kz/Icons/qazaqstan.png" tvg-shift=3 ,QAZAQSTAN 
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="QAZAQSTAN" tvg-logo="http://uplink.kz/Icons/qazaqstan.png" ,QAZAQSTAN 
 http://109.248.236.21:4022/udp/238.1.1.125:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хабар" tvg-logo="http://uplink.kz/Icons/khabar.png" tvg-shift=3 ,Хабар 
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хабар" tvg-logo="http://uplink.kz/Icons/khabar.png" ,Хабар 
 http://109.248.236.21:4022/udp/238.1.1.126:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хабар 24" tvg-logo="http://uplink.kz/Icons/khabar-24.png" tvg-shift=3 ,Хабар24 
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хабар 24" tvg-logo="http://uplink.kz/Icons/khabar-24.png" ,Хабар24 
 http://109.248.236.21:4022/udp/238.1.1.145:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Qazaq TV" tvg-logo="http://uplink.kz/Icons/qazaq-tv.png" tvg-shift=3 ,Qazaq TV 
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Qazaq TV" tvg-logo="http://uplink.kz/Icons/qazaq-tv.png" ,Qazaq TV 
 http://109.248.236.21:4022/udp/238.1.1.148:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Первый канал Евразия" tvg-logo="http://uplink.kz/Icons/perviy_kanal_eurasia.png" tvg-shift=3 ,Первый канал Евразия 
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Первый канал Евразия" tvg-logo="http://uplink.kz/Icons/perviy_kanal_eurasia.png" ,Первый канал Евразия 
 http://109.248.236.21:4022/udp/238.1.1.7:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Алматы" tvg-logo="http://uplink.kz/Icons/almaty.png" tvg-shift=3 ,Almaty
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Алматы" tvg-logo="http://uplink.kz/Icons/almaty.png" ,Almaty
 http://109.248.236.21:4022/udp/238.1.1.149:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Астана" tvg-logo="http://uplink.kz/Icons/astana.png" tvg-shift=3 ,Astana
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Астана" tvg-logo="http://uplink.kz/Icons/astana.png" ,Astana
 http://109.248.236.21:4022/udp/238.1.1.150:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Седьмой_канал_(Казахстан)" tvg-logo="http://uplink.kz/Icons/7-kanal.png" tvg-shift=3 ,7 канал
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Седьмой_канал_(Казахстан)" tvg-logo="http://uplink.kz/Icons/7-kanal.png" ,7 канал
 http://109.248.236.21:4022/udp/238.1.1.151:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="НТК_(Казахстан)" tvg-logo="http://uplink.kz/Icons/ntk.png" tvg-shift=3 ,НТК
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="НТК_(Казахстан)" tvg-logo="http://uplink.kz/Icons/ntk.png" ,НТК
 http://109.248.236.21:4022/udp/238.1.1.3:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КТК" tvg-logo="http://uplink.kz/Icons/ktk.png" tvg-shift=3 ,КТК
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КТК" tvg-logo="http://uplink.kz/Icons/ktk.png" ,КТК
 http://109.248.236.21:4022/udp/238.1.1.4:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Ел Арна" tvg-logo="http://uplink.kz/Icons/el-arna.png" ,Ел Арна
 http://109.248.236.21:4022/udp/238.1.1.147:1234
@@ -27,7 +27,7 @@ http://109.248.236.21:4022/udp/238.1.1.147:1234
 http://109.248.236.21:4022/udp/238.1.1.92:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="31 channel" tvg-logo="http://uplink.kz/Icons/31-tv.png" ,31 канал
 http://109.248.236.21:4022/udp/238.1.1.60:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Новое_телевидение" tvg-logo="http://uplink.kz/Icons/novoe-tv.png" tvg-shift=3 ,Новое ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Новое_телевидение" tvg-logo="http://uplink.kz/Icons/novoe-tv.png" ,Новое ТВ
 http://109.248.236.21:4022/udp/238.1.1.63:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Алау" tvg-logo="http://uplink.kz/Icons/alau-tv.png" ,Алау
 http://109.248.236.21:4022/udp/238.1.1.221:1234
@@ -37,9 +37,9 @@ http://109.248.236.21:4022/udp/238.1.1.206:1234
 http://109.248.236.21:4022/udp/238.1.1.119:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/camera.png" ,Костанай-online
 http://109.248.236.21:4022/udp/238.1.1.82:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Первый_канал__(СНГ)" tvg-logo="http://uplink.kz/Icons/perviy-kanal.png" tvg-shift=3 ,Первый Канал СНГ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Первый_канал__(СНГ)" tvg-logo="http://uplink.kz/Icons/perviy-kanal.png" ,Первый Канал СНГ
 http://109.248.236.21:4022/udp/238.1.1.38:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Россия 24" tvg-logo="http://uplink.kz/Icons/rossiya-24.png" tvg-shift=3 ,Россия 24
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Россия 24" tvg-logo="http://uplink.kz/Icons/rossiya-24.png" ,Россия 24
 http://109.248.236.21:4022/udp/238.1.1.40:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Россия К" tvg-logo="http://uplink.kz/Icons/rossiya-k.png" tvg-shift=2 ,Россия К
 http://109.248.236.21:4022/udp/238.1.1.55:1234
@@ -47,211 +47,211 @@ http://109.248.236.21:4022/udp/238.1.1.55:1234
 http://109.248.236.21:4022/udp/238.1.1.16:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МИР" tvg-logo="http://uplink.kz/Icons/mir.png" tvg-shift=0 ,МИР
 http://109.248.236.21:4022/udp/238.1.1.73:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="НТВ-Мир" tvg-logo="http://uplink.kz/Icons/ntv-mir.png" tvg-shift=3 ,НТВ Мир
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="НТВ-Мир" tvg-logo="http://uplink.kz/Icons/ntv-mir.png" ,НТВ Мир
 http://109.248.236.21:4022/udp/238.1.1.56:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТВЦ" tvg-shift=3 ,ТВЦ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТВЦ" ,ТВЦ
 http://109.248.236.21:4522/udp/238.1.1.11:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНТ" tvg-shift=3 ,ТНТ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНТ" ,ТНТ
 http://109.248.236.21:4522/udp/238.1.1.15:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносемья" tvg-shift=3 ,Киносемья
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносемья" ,Киносемья
 http://109.248.236.21:4522/udp/238.1.1.52:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинопремьера HD" tvg-logo="http://uplink.kz/Icons/kinopremyera.png" tvg-shift=3 ,Кинопремьера HD
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинопремьера HD" tvg-logo="http://uplink.kz/Icons/kinopremyera.png" ,Кинопремьера HD
 http://109.248.236.21:4222/udp/238.1.1.19:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киномикс" tvg-logo="http://uplink.kz/Icons/kinomiks.png" tvg-shift=3 ,Киномикс
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киномикс" tvg-logo="http://uplink.kz/Icons/kinomiks.png" ,Киномикс
 http://109.248.236.21:4222/udp/238.1.1.42:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинокомедия" tvg-logo="http://uplink.kz/Icons/kinokomedija.png" aspect-ratio=16:9 tvg-shift=3 ,Кинокомедия
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинокомедия" tvg-logo="http://uplink.kz/Icons/kinokomedija.png" aspect-ratio=16:9 ,Кинокомедия
 http://109.248.236.21:4222/udp/238.1.1.133:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносвидание" tvg-logo="http://uplink.kz/Icons/kinosvidanie.png" tvg-shift=3 ,Киносвидание
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносвидание" tvg-logo="http://uplink.kz/Icons/kinosvidanie.png" ,Киносвидание
 http://109.248.236.21:4222/udp/238.1.2.105:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинохит" tvg-logo="http://uplink.kz/Icons/kinohit.png" tvg-shift=3 ,Кинохит
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Кинохит" tvg-logo="http://uplink.kz/Icons/kinohit.png" ,Кинохит
 http://109.248.236.21:4222/udp/238.1.1.53:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мужское кино" tvg-logo="http://uplink.kz/Icons/muzhskoe_kino.png" aspect-ratio=16:9 tvg-shift=3 ,Мужское кино
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мужское кино" tvg-logo="http://uplink.kz/Icons/muzhskoe_kino.png" aspect-ratio=16:9 ,Мужское кино
 http://109.248.236.21:4222/udp/238.1.1.74:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Наше новое кино" tvg-logo="http://uplink.kz/Icons/nashe_novoe_kino.png" aspect-ratio=16:9 tvg-shift=3 ,Наше новое кино
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Наше новое кино" tvg-logo="http://uplink.kz/Icons/nashe_novoe_kino.png" aspect-ratio=16:9 ,Наше новое кино
 http://109.248.236.21:4222/udp/238.1.1.54:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносемья" tvg-logo="http://uplink.kz/Icons/kinosemja.png" tvg-shift=3 ,Киносемья
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносемья" tvg-logo="http://uplink.kz/Icons/kinosemja.png" ,Киносемья
 http://109.248.236.21:4222/udp/238.1.2.52:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносерия" tvg-logo="http://uplink.kz/Icons/kinoseriya.png" aspect-ratio=16:9 tvg-shift=3 ,Киносерия
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Киносерия" tvg-logo="http://uplink.kz/Icons/kinoseriya.png" aspect-ratio=16:9 ,Киносерия
 http://109.248.236.21:4222/udp/238.1.1.57:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Родное кино" tvg-logo="http://uplink.kz/Icons/rodnoe_kino.png" aspect-ratio=16:9 tvg-shift=3 ,Родное кино
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Родное кино" tvg-logo="http://uplink.kz/Icons/rodnoe_kino.png" aspect-ratio=16:9 ,Родное кино
 http://109.248.236.21:4222/udp/238.1.1.77:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Дом Кино" tvg-logo="http://uplink.kz/Icons/dom_kino.png" tvg-shift=3 ,Дом Кино
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Дом Кино" tvg-logo="http://uplink.kz/Icons/dom_kino.png" ,Дом Кино
 http://109.248.236.21:4322/udp/238.1.1.32:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Дом Кино Премиум" tvg-logo="http://uplink.kz/Icons/dom_kino_premium.png" tvg-shift=3 ,Дом Кино Премиум
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Дом Кино Премиум" tvg-logo="http://uplink.kz/Icons/dom_kino_premium.png" ,Дом Кино Премиум
 http://109.248.236.21:4322/udp/238.1.1.66:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мир сериалов" tvg-shift=3 ,Мир сериалов
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мир сериалов" ,Мир сериалов
 http://109.248.236.21:4522/udp/238.1.1.136:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Пятый" tvg-shift=3 ,Пятый
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Пятый" ,Пятый
 http://109.248.236.21:4522/udp/238.1.1.137:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="cinema" tvg-shift=3 ,cinema
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="cinema" ,cinema
 http://109.248.236.21:4522/udp/238.1.1.140:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КиноУжас" tvg-shift=3 ,КиноУжас
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КиноУжас" ,КиноУжас
 http://109.248.236.21:4522/udp/238.1.1.154:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="CTC Love" tvg-shift=3 ,CTC Love
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="CTC Love" ,CTC Love
 http://109.248.236.21:4522/udp/238.1.1.69:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Звезда ТВ" tvg-shift=3 ,Звезда ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Звезда ТВ" ,Звезда ТВ
 http://109.248.236.21:4522/udp/238.1.1.76:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="T24" tvg-shift=3 ,T24
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="T24" ,T24
 http://109.248.236.21:4522/udp/238.1.1.88:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="СТС_International" tvg-logo="http://uplink.kz/Icons/sts.png" tvg-shift=3 ,СТС
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="СТС_International" tvg-logo="http://uplink.kz/Icons/sts.png" ,СТС
 http://109.248.236.21:4422/udp/238.1.1.67:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="РЕН_ТВ" tvg-logo="http://uplink.kz/Icons/ren-tv.png" tvg-shift=1 ,РЕН
 http://109.248.236.21:4422/udp/238.1.1.72:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Перец international" tvg-logo="http://uplink.kz/Icons/peretz_int.png" tvg-shift=3 ,Перец
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Перец international" tvg-logo="http://uplink.kz/Icons/peretz_int.png" ,Перец
 http://109.248.236.21:4422/udp/238.1.1.118:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Домашний international" tvg-logo="http://uplink.kz/Icons/domashniy.png" tvg-shift=3 ,Домашний
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Домашний international" tvg-logo="http://uplink.kz/Icons/domashniy.png" ,Домашний
 http://109.248.236.21:4422/udp/238.1.1.120:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Музыка Первого" tvg-logo="http://uplink.kz/Icons/muzika_pervogo.png" tvg-shift=3 ,Музыка Первого
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Музыка Первого" tvg-logo="http://uplink.kz/Icons/muzika_pervogo.png" ,Музыка Первого
 http://109.248.236.21:4122/udp/238.1.1.8:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/Rmusic.png" ,Rmusic
 http://109.248.236.21:4122/udp/238.1.1.122:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Europa Plus TV" tvg-logo="http://uplink.kz/Icons/europa_plus.png" aspect-ratio=16:9 tvg-shift=3 ,Europa Plus
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Europa Plus TV" tvg-logo="http://uplink.kz/Icons/europa_plus.png" aspect-ratio=16:9 ,Europa Plus
 http://109.248.236.21:4122/udp/238.1.1.27:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Жара" tvg-logo="http://uplink.kz/Icons/zhara.png" tvg-shift=3 ,Жара
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Жара" tvg-logo="http://uplink.kz/Icons/zhara.png" ,Жара
 http://109.248.236.21:4122/udp/238.1.1.106:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Шансон ТВ" tvg-logo="http://uplink.kz/Icons/shanson.png" aspect-ratio=16:9 tvg-shift=3 ,Шансон
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Шансон ТВ" tvg-logo="http://uplink.kz/Icons/shanson.png" aspect-ratio=16:9 ,Шансон
 http://109.248.236.21:4122/udp/238.1.1.79:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Матч! Планета" tvg-logo="http://uplink.kz/Icons/match-planeta.png" tvg-shift=3 ,Матч! Планета
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Матч! Планета" tvg-logo="http://uplink.kz/Icons/match-planeta.png" ,Матч! Планета
 http://109.248.236.21:4122/udp/238.1.1.39:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КХЛ_HD" tvg-logo="http://uplink.kz/Icons/khl-prime.png" tvg-shift=3 ,KHL Prime
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="КХЛ_HD" tvg-logo="http://uplink.kz/Icons/khl-prime.png" ,KHL Prime
 http://109.248.236.21:4122/udp/238.1.1.36:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Sport" tvg-logo="http://uplink.kz/Icons/viasat-sport.png" tvg-shift=3 ,Viasat Sport
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Sport" tvg-logo="http://uplink.kz/Icons/viasat-sport.png" ,Viasat Sport
 http://109.248.236.21:4122/udp/238.1.1.50:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Сетанта_спорт" tvg-logo="http://uplink.kz/Icons/setanta_sports_1.png" tvg-shift=3 ,Setanta Sports 1 HD
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Сетанта_спорт" tvg-logo="http://uplink.kz/Icons/setanta_sports_1.png" ,Setanta Sports 1 HD
 http://109.248.236.21:4122/udp/238.1.1.162:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Setanta Sports 2 HD" tvg-logo="http://uplink.kz/Icons/setanta_sports_2.png" tvg-shift=3 ,Setanta Sports 2 HD
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Setanta Sports 2 HD" tvg-logo="http://uplink.kz/Icons/setanta_sports_2.png" ,Setanta Sports 2 HD
 http://109.248.236.21:4122/udp/238.1.1.163:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="QAZSPORT HD" tvg-logo="http://uplink.kz/Icons/qazsport.png" tvg-shift=3 ,QAZSPORT HD
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="QAZSPORT HD" tvg-logo="http://uplink.kz/Icons/qazsport.png" ,QAZSPORT HD
 http://109.248.236.21:4122/udp/238.1.1.116:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Точка Отрыва" tvg-logo="http://uplink.kz/Icons/tochka-otryva.png" tvg-shift=3 ,Точка отрыва
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Точка Отрыва" tvg-logo="http://uplink.kz/Icons/tochka-otryva.png" ,Точка отрыва
 http://109.248.236.21:4222/udp/238.1.1.127:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Sport+" tvg-logo="http://uplink.kz/Icons/udar.png" tvg-shift=3 ,Sport+
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Sport+" tvg-logo="http://uplink.kz/Icons/udar.png" ,Sport+
 http://109.248.236.21:4222/udp/238.1.1.204:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Da Vinci" tvg-logo="http://uplink.kz/Icons/da-vinci.png" tvg-shift=3 ,Da Vinci
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Da Vinci" tvg-logo="http://uplink.kz/Icons/da-vinci.png" ,Da Vinci
 http://109.248.236.21:4222/udp/238.1.1.37:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мульт" tvg-logo="http://uplink.kz/Icons/mult.png" tvg-shift=3 ,Мульт
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мульт" tvg-logo="http://uplink.kz/Icons/mult.png" ,Мульт
 http://109.248.236.21:4222/udp/238.1.1.29:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Карусель" tvg-logo="http://uplink.kz/Icons/karusel.png" tvg-shift=3 ,Карусель
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Карусель" tvg-logo="http://uplink.kz/Icons/karusel.png" ,Карусель
 http://109.248.236.21:4222/udp/238.1.1.45:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="О!" tvg-logo="http://uplink.kz/Icons/o!.png" tvg-shift=3 ,О!
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="О!" tvg-logo="http://uplink.kz/Icons/o!.png" ,О!
 http://109.248.236.21:4222/udp/238.1.1.93:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мультиландия" tvg-logo="http://uplink.kz/Icons/multilandia.png" tvg-shift=3 ,Мультиландия
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мультиландия" tvg-logo="http://uplink.kz/Icons/multilandia.png" ,Мультиландия
 http://109.248.236.21:4222/udp/238.1.1.26:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="В гостях у сказки" tvg-logo="http://uplink.kz/Icons/v_gostyakh_u_skazki.png" tvg-shift=3 ,В гостях у сказки
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="В гостях у сказки" tvg-logo="http://uplink.kz/Icons/v_gostyakh_u_skazki.png" ,В гостях у сказки
 http://109.248.236.21:4222/udp/238.1.1.98:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Balapan" tvg-logo="http://uplink.kz/Icons/balapan.png" tvg-shift=1 ,Balapan
 http://109.248.236.21:4222/udp/238.1.1.146:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мосфильм__Золотая_коллекция" tvg-logo="http://uplink.kz/Icons/mosfilm.png" tvg-shift=3 ,Мосфильм
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Мосфильм__Золотая_коллекция" tvg-logo="http://uplink.kz/Icons/mosfilm.png" ,Мосфильм
 http://109.248.236.21:4322/udp/238.1.1.100:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Победа" tvg-logo="http://uplink.kz/Icons/pobeda.png" tvg-shift=3 ,Победа
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Победа" tvg-logo="http://uplink.kz/Icons/pobeda.png" ,Победа
 http://109.248.236.21:4322/udp/238.1.1.128:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000" tvg-logo="http://uplink.kz/Icons/viasat_tv1000.png" tvg-shift=3 ,TV 1000
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000" tvg-logo="http://uplink.kz/Icons/viasat_tv1000.png" ,TV 1000
 http://109.248.236.21:4322/udp/238.1.1.41:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000_Action" tvg-logo="http://uplink.kz/Icons/viasat_tv1000_action.png" tvg-shift=3 ,TV 1000 Action
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000_Action" tvg-logo="http://uplink.kz/Icons/viasat_tv1000_action.png" ,TV 1000 Action
 http://109.248.236.21:4322/udp/238.1.1.43:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000_Русское_кино" tvg-logo="http://uplink.kz/Icons/viasat_tv1000_russkoe_kino.png" tvg-shift=3 ,TV 1000 Русское кино
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV1000_Русское_кино" tvg-logo="http://uplink.kz/Icons/viasat_tv1000_russkoe_kino.png" ,TV 1000 Русское кино
 http://109.248.236.21:4322/udp/238.1.1.44:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Русский_Иллюзион" tvg-logo="http://uplink.kz/Icons/russkiy_illusion.png" tvg-shift=3 ,Русский иллюзион
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Русский_Иллюзион" tvg-logo="http://uplink.kz/Icons/russkiy_illusion.png" ,Русский иллюзион
 http://109.248.236.21:4322/udp/238.1.1.129:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Иллюзион__" tvg-logo="http://uplink.kz/Icons/illusion-plus.png" tvg-shift=3 ,Иллюзион+
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Иллюзион__" tvg-logo="http://uplink.kz/Icons/illusion-plus.png" ,Иллюзион+
 http://109.248.236.21:4322/udp/238.1.1.104:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Amedia Premium" tvg-logo="http://uplink.kz/Icons/amedia-premium.png" tvg-shift=3 ,Amedia Premium HD
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Amedia Premium" tvg-logo="http://uplink.kz/Icons/amedia-premium.png" ,Amedia Premium HD
 http://109.248.236.21:4322/udp/238.1.1.71:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Еврокино" tvg-logo="http://uplink.kz/Icons/eurokino.png" tvg-shift=3 ,Eurokino
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Еврокино" tvg-logo="http://uplink.kz/Icons/eurokino.png" ,Eurokino
 http://109.248.236.21:4322/udp/238.1.1.49:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV_XXI" tvg-logo="http://uplink.kz/Icons/tv21.png" aspect-ratio=16:9 tvg-shift=3 ,TVXXI
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TV_XXI" tvg-logo="http://uplink.kz/Icons/tv21.png" aspect-ratio=16:9 ,TVXXI
 http://109.248.236.21:4322/udp/238.1.1.65:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Zee TV" tvg-logo="http://uplink.kz/Icons/zee-tv.png" tvg-shift=3 ,ZeeTV
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Zee TV" tvg-logo="http://uplink.kz/Icons/zee-tv.png" ,ZeeTV
 http://109.248.236.21:4322/udp/238.1.1.31:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/kvn.png" tvg-shift=3 ,КВН ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/kvn.png" ,КВН ТВ
 http://109.248.236.21:4422/udp/238.1.1.111:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Пятница_International" tvg-logo="http://uplink.kz/Icons/pyatnitsa-int.png" tvg-shift=3 ,Большая Пятница
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Пятница_International" tvg-logo="http://uplink.kz/Icons/pyatnitsa-int.png" ,Большая Пятница
 http://109.248.236.21:4422/udp/238.1.1.192:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНТ4" tvg-logo="http://uplink.kz/Icons/tnt4.png" tvg-shift=1 ,ТНТ4
 http://109.248.236.21:4422/udp/238.1.1.12:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat History" tvg-logo="http://uplink.kz/Icons/viasat_history.png" tvg-shift=3 ,Viasat History
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat History" tvg-logo="http://uplink.kz/Icons/viasat_history.png" ,Viasat History
 http://109.248.236.21:4422/udp/238.1.1.1:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Explore" tvg-logo="http://uplink.kz/Icons/viasat_explore.png" tvg-shift=3 ,Viasat Explore
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Explore" tvg-logo="http://uplink.kz/Icons/viasat_explore.png" ,Viasat Explore
 http://109.248.236.21:4422/udp/238.1.1.18:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Поехали" tvg-logo="http://uplink.kz/Icons/poehali.png" tvg-shift=3 ,Поехали!
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Поехали" tvg-logo="http://uplink.kz/Icons/poehali.png" ,Поехали!
 http://109.248.236.21:4422/udp/238.1.1.94:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Моя Планета" tvg-logo="http://uplink.kz/Icons/moya-planeta.png" tvg-shift=3 ,Моя Планета
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Моя Планета" tvg-logo="http://uplink.kz/Icons/moya-planeta.png" ,Моя Планета
 http://109.248.236.21:4422/udp/238.1.1.95:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Охота и рыбалка" tvg-logo="http://uplink.kz/Icons/rybalka-i-okhota-ru.png" tvg-shift=3 ,Охота и рыбалка
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Охота и рыбалка" tvg-logo="http://uplink.kz/Icons/rybalka-i-okhota-ru.png" ,Охота и рыбалка
 http://109.248.236.21:4422/udp/238.1.1.22:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Оружие" tvg-logo="http://uplink.kz/Icons/oruzhie.png" tvg-shift=3 ,Оружие
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Оружие" tvg-logo="http://uplink.kz/Icons/oruzhie.png" ,Оружие
 http://109.248.236.21:4422/udp/238.1.1.34:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Живи!" tvg-logo="http://uplink.kz/Icons/zhivi.png" aspect-ratio=16:9 tvg-shift=3 ,Живи!
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Живи!" tvg-logo="http://uplink.kz/Icons/zhivi.png" aspect-ratio=16:9 ,Живи!
 http://109.248.236.21:4422/udp/238.1.1.35:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Бобер" tvg-logo="http://uplink.kz/Icons/bober.png" tvg-shift=3 ,Бобер
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Бобер" tvg-logo="http://uplink.kz/Icons/bober.png" ,Бобер
 http://109.248.236.21:4422/udp/238.1.1.58:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Вопросы и ответы" tvg-logo="http://uplink.kz/Icons/voprosy-i-otvety.png" tvg-shift=3 ,Вопросы и ответы
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Вопросы и ответы" tvg-logo="http://uplink.kz/Icons/voprosy-i-otvety.png" ,Вопросы и ответы
 http://109.248.236.21:4422/udp/238.1.1.2:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Телекафе" tvg-logo="http://uplink.kz/Icons/telecafe.png" tvg-shift=3 ,Телекафе
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Телекафе" tvg-logo="http://uplink.kz/Icons/telecafe.png" ,Телекафе
 http://109.248.236.21:4422/udp/238.1.1.99:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Авто24 HD" tvg-logo="http://uplink.kz/Icons/avto24.png" tvg-shift=3 ,Авто24
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Авто24 HD" tvg-logo="http://uplink.kz/Icons/avto24.png" ,Авто24
 http://109.248.236.21:4522/udp/238.1.1.110:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Время" tvg-logo="http://uplink.kz/Icons/vremya.png" tvg-shift=3 ,Время
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Время" tvg-logo="http://uplink.kz/Icons/vremya.png" ,Время
 http://109.248.236.21:4522/udp/238.1.1.33:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Ностальгия" tvg-logo="http://uplink.kz/Icons/nostalgia.png" tvg-shift=3 ,Ностальгия
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Ностальгия" tvg-logo="http://uplink.kz/Icons/nostalgia.png" ,Ностальгия
 http://109.248.236.21:4522/udp/238.1.1.83:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Совершенно Секретно" tvg-logo="http://uplink.kz/Icons/soversheno_sekretno.png" tvg-shift=3 ,Совершенно Секретно
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Совершенно Секретно" tvg-logo="http://uplink.kz/Icons/soversheno_sekretno.png" ,Совершенно Секретно
 http://109.248.236.21:4522/udp/238.1.1.87:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Психология 21" tvg-logo="http://uplink.kz/Icons/psikhologiya-21.png" tvg-shift=3 ,Психология21
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Психология 21" tvg-logo="http://uplink.kz/Icons/psikhologiya-21.png" ,Психология21
 http://109.248.236.21:4522/udp/238.1.1.103:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Домашние животные" tvg-logo="http://uplink.kz/Icons/domashnie_zhivotnye.png" tvg-shift=3 ,Домашние животные
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Домашние животные" tvg-logo="http://uplink.kz/Icons/domashnie_zhivotnye.png" ,Домашние животные
 http://109.248.236.21:4522/udp/238.1.1.107:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Zooпарк" tvg-logo="http://uplink.kz/Icons/zoo_park.png" tvg-shift=3 ,Зоопарк
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Zooпарк" tvg-logo="http://uplink.kz/Icons/zoo_park.png" ,Зоопарк
 http://109.248.236.21:4522/udp/238.1.1.47:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Nature cee" tvg-logo="http://uplink.kz/Icons/viasat_nature.png" tvg-shift=3 ,Viasat Nature
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Viasat Nature cee" tvg-logo="http://uplink.kz/Icons/viasat_nature.png" ,Viasat Nature
 http://109.248.236.21:4522/udp/238.1.1.51:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="HD Life" tvg-logo="http://uplink.kz/Icons/hdl.png" tvg-shift=3 ,HDL
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="HD Life" tvg-logo="http://uplink.kz/Icons/hdl.png" ,HDL
 http://109.248.236.21:4522/udp/238.1.1.59:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Телеканал 360" tvg-logo="http://uplink.kz/Icons/telekanal-360.png" tvg-shift=3 ,Телеканал 360
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Телеканал 360" tvg-logo="http://uplink.kz/Icons/telekanal-360.png" ,Телеканал 360
 http://109.248.236.21:4522/udp/238.1.1.62:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНВ планета" tvg-shift=3 ,ТНВ планета
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНВ планета" ,ТНВ планета
 http://109.248.236.21:4522/udp/238.1.1.6:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Бокс ТВ" tvg-shift=3 ,Бокс ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Бокс ТВ" ,Бокс ТВ
 http://109.248.236.21:4522/udp/238.1.1.13:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МАТЧ Премьер" tvg-shift=3 ,МАТЧ Премьер
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МАТЧ Премьер" ,МАТЧ Премьер
 http://109.248.236.21:4522/udp/238.1.1.14:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="О!2" tvg-shift=3 ,О!2
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="О!2" ,О!2
 http://109.248.236.21:4522/udp/238.1.1.17:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Лапки LIVE" tvg-shift=3 ,Лапки LIVE
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Лапки LIVE" ,Лапки LIVE
 http://109.248.236.21:4522/udp/238.1.1.21:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Animal Planet" tvg-shift=3 ,Animal Planet
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Animal Planet" ,Animal Planet
 http://109.248.236.21:4522/udp/238.1.1.25:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Загородный" tvg-shift=3 ,Загородный
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Загородный" ,Загородный
 http://109.248.236.21:4522/udp/238.1.1.28:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="БелРос" tvg-shift=3 ,БелРос
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="БелРос" ,БелРос
 http://109.248.236.21:4522/udp/238.1.1.30:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНТ Music" tvg-shift=3 ,ТНТ Music
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ТНТ Music" ,ТНТ Music
 http://109.248.236.21:4522/udp/238.1.1.46:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="В мире животных" tvg-shift=3 ,В мире животных
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="В мире животных" ,В мире животных
 http://109.248.236.21:4522/udp/238.1.1.48:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TURAN" tvg-shift=3 ,TURAN
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="TURAN" ,TURAN
 http://109.248.236.21:4522/udp/238.1.1.61:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Конный мир" tvg-shift=3 ,Конный мир
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Конный мир" ,Конный мир
 http://109.248.236.21:4522/udp/238.1.1.64:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="RT" tvg-shift=3 ,RT
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="RT" ,RT
 http://109.248.236.21:4522/udp/238.1.1.68:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="РБК" tvg-shift=3 ,РБК
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="РБК" ,РБК
 http://109.248.236.21:4522/udp/238.1.1.85:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МАЧТ" tvg-shift=3 ,МАЧТ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МАЧТ" ,МАЧТ
 http://109.248.236.21:4522/udp/238.1.1.89:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МУЗ ТВ" tvg-shift=3 ,МУЗ ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="МУЗ ТВ" ,МУЗ ТВ
 http://109.248.236.21:4522/udp/238.1.1.90:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хит ТВ" tvg-shift=3 ,Хит ТВ
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Хит ТВ" ,Хит ТВ
 http://109.248.236.21:4522/udp/238.1.1.96:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="а1" tvg-shift=3 ,а1
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="а1" ,а1
 http://109.248.236.21:4522/udp/238.1.1.97:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ю тв" tvg-shift=3 ,ю тв
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="ю тв" ,ю тв
 http://109.248.236.21:4522/udp/238.1.1.108:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="HCT" tvg-shift=3 ,HCT
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="HCT" ,HCT
 http://109.248.236.21:4522/udp/238.1.1.123:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="авто +" tvg-shift=3 ,авто +
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="авто +" ,авто +
 http://109.248.236.21:4522/udp/238.1.1.131:1234
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Discavary" tvg-shift=3 ,Discavary
+#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Discavary" ,Discavary
 http://109.248.236.21:4522/udp/238.1.1.187:1234
-#EXTINF:-1 deinterlace=7 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
