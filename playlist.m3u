@@ -101,6 +101,81 @@ http://109.248.236.21:4422/udp/238.1.1.72:1234
 http://109.248.236.21:4422/udp/238.1.1.118:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Домашний international" tvg-logo="http://uplink.kz/Icons/domashniy.png" ,Домашний
 http://109.248.236.21:4422/udp/238.1.1.120:1234
+#EXTINF:-1 deinterlace=7 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Кинозал",Неизвестная Россия (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Кинозал",НТВ (HD)
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="Кинозал",НТВ Беларусь (HD)
+http://93.189.224.246:52900/play/a00i/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Кинозал",ОНТ (HD)
+https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="Кинозал",.black (EDTV 576p)
+http://109.200.130.123:7537/play/a02s
+#EXTINF:-1 deinterlace=7 tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png" group-title="Кинозал",.red (EDTV 576p)
+http://178.124.152.238:8088/sony
+#EXTINF:-1 deinterlace=7 tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="Кинозал",.sci-fi (EDTV 576p)
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 deinterlace=7 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кинозал",Amedia 1 (EDTV 576p)
+http://stream01.vnet.am/Channel_128/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кинозал",Amedia 2 (EDTV 576p)
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="Кинозал",Amedia Hit (HD)
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="Кинозал",Amedia Premium (HD)
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Кинозал",BollywooD (HD ready)
+http://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema.png" group-title="Кинозал",Cinema (EDTV 576p)
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="2181" tvg-logo="http://epg.one/img2/2181.png" group-title="Кинозал",Filmbox (EDTV 576p)
+http://130.193.73.10:8937/play/a03s
+#EXTINF:-1 deinterlace=7 tvg-id="hollywood-hd" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="Кинозал",HollywooD (HD)
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 deinterlace=7 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="Кинозал",Kino 24 (EDTV 576p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="Кинозал",PRO100 (EDTV 576p)
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png" group-title="Кинозал",Romance (HD)
+http://88.218.242.237:8000/play/a004
+#EXTINF:-1 deinterlace=7 tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" group-title="Кинозал",Scream (HD)
+http://88.218.242.237:8000/play/a00c
+#EXTINF:-1 deinterlace=7 tvg-id="suspense" tvg-logo="https://iptvx.one/picons/suspense.png" group-title="Кинозал", Suspense (HD)
+http://88.218.242.237:8000/play/a005
+#EXTINF:-1 deinterlace=7 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="Кинозал",SHOT TV (EDTV 576p)
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF:-1 deinterlace=7 tvg-id="start-world" tvg-logo="http://epg.one/img2/6240.png" group-title="Кинозал",Start World (EDTV 576p)
+http://95.156.76.230:33001/udp/230.4.34.66:1234
+#EXTINF:-1 deinterlace=7 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кинозал",Viju TV1000 (HD)
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кинозал",Viju+ megahit (HD)
+http://193.242.190.6:8099/201/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="vip-serial" tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="Кинозал",Viju+ serial (HD)
+http://91.205.199.3/vipserialhd/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="Кинозал",Viju+ megahit (HD)
+http://193.242.190.6:8099/201/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кинозал",Еврокино (EDTV 576p)
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png" group-title="Кинозал",Кинеко (HD)
+http://130.193.73.10:8937/play/a03d
+#EXTINF:-1 deinterlace=7 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кинозал",Кино без границ (EDTV 576p)
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="4780" tvg-logo="http://only4.tv/ch/9859.png" group-title="Кинозал",КиноДетектив (HD ready)
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="4780" tvg-logo="http://only4.tv/ch/9857.png" group-title="Кинозал",КиноМистика (nHD)
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png" group-title="Кинозал",Киноман (nHD)
+http://88.218.242.237:8000/play/a002
+#EXTINF:-1 deinterlace=7 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кинозал",Кино ТВ (EDTV 576p)
+http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кинозал",Любимое кино (EDTV 576p)
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 deinterlace=7 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кинозал",Ретро (EDTV 576p)
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 deinterlace=7 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="Кинозал",Сапфир (EDTV 576p)
+http://130.193.73.10:8937/play/a01e
+#EXTINF:-1 deinterlace=7 tvg-id="ntv-serial" tvg-logo="http://epg.one/img2/1754.png" group-title="Кинозал",НТВ Сериал (WSVGA)
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Музыка Первого" tvg-logo="http://uplink.kz/Icons/muzika_pervogo.png" ,Музыка Первого
 http://109.248.236.21:4122/udp/238.1.1.8:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/Rmusic.png" ,Rmusic
@@ -253,5 +328,3 @@ http://109.248.236.21:4522/udp/238.1.1.123:1234
 http://109.248.236.21:4522/udp/238.1.1.131:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Discavary" ,Discavary
 http://109.248.236.21:4522/udp/238.1.1.187:1234
-#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
