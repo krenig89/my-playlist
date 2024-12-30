@@ -1,26 +1,20 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1,КП HD
-http://45.159.74.13:80/Kinopremera/index.m3u8
-#EXTINF:-1,К=премьера
-http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопремьера 1920x1080
-http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://91.205.199.3/kinopremerahd/index.m3u8
-#EXTINF:-1,Кинопремьера 
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://213.226.137.140:81/tl/l303/mpegts
-#EXTINF:-1,КИНОХИТ
-http://213.226.137.140:81/tl/l16/mpegts
-#EXTINF:-1,Кинохит HD
-http://91.205.199.3:80/kinoxithd/index.m3u8
-#EXTINF:-1,KINOHIT [720x576]
-http://82.215.111.227/1055/index.m3u8?token=fas-tv.com
-#EXTINF:-1,КиноХит 
-https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кино Хит
-http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Kinohit
-rtmp://5.182.229.90//7250
+#EXTINF:-1,deinterlace=7,ТехПоддержка:22-08-60 
+http://109.248.236.21:4322/udp/238.1.1.80:1234 
+#EXTINF:-1,deinterlace=7,QAZAQSTAN 
+http://109.248.236.21:4022/udp/238.1.1.125:1234 
+#EXTINF:-1,deinterlace=7,Хабар 
+http://109.248.236.21:4022/udp/238.1.1.126:1234 
+#EXTINF:-1,deinterlace=7,Хабар24 
+http://109.248.236.21:4022/udp/238.1.1.145:1234 
+#EXTINF:-1,deinterlace=7,Qazaq TV 
+http://109.248.236.21:4022/udp/238.1.1.148:1234 
+#EXTINF:-1,deinterlace=7,Первый канал Евразия 
+http://109.248.236.21:4022/udp/238.1.1.7:1234 
+#EXTINF:-1,deinterlace=7,Almaty 
+http://109.248.236.21:4022/udp/238.1.1.149:1234 
+#EXTINF:-1,deinterlace=7,Astana 
+http://109.248.236.21:4022/udp/238.1.1.150:1234 
+#EXTINF:-1,deinterlace=7,7 канал 
+http://109.248.236.21:4022/udp/238.1.1.151:1234 
