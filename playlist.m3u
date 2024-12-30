@@ -253,3 +253,5 @@ http://109.248.236.21:4522/udp/238.1.1.123:1234
 http://109.248.236.21:4522/udp/238.1.1.131:1234
 #EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-name="Discavary" tvg-shift=3 ,Discavary
 http://109.248.236.21:4522/udp/238.1.1.187:1234
+#EXTINF:-1 deinterlace=7 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общественные",Мир (HD)
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
