@@ -1,2 +1,3 @@
-#EXTM3U
-#EXTINF:-1 deinterlace=7 group-title="Кабельные сети" tvg-logo="http://uplink.kz/Icons/ksk.png" ,ТехПоддержка:22-08-60 http://109.248.236.21:4322/udp/238.1.1.80:1234 
+#EXTM3U url-tvg=http://wotom.net/jtv.zip tvg-logo=http://uplink.kz/Icons/ cache=Auto 
+#EXTM3U type=mpeg_ts plugin=generic 
+#EXTINF:-1 deinterlace=7 tvg-logo="http://uplink.kz/Icons/ksk.png" ,ТехПоддержка:22-08-60 http://109.248.236.21:4322/udp/238.1.1.80:1234 
